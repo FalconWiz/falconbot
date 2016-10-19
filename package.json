@@ -1,0 +1,33 @@
+{
+  "name": "falconbot",
+  "version": "0.0.1",
+  "description": "Another discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "$(npm bin)/gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FalconWiz/falconbot.git"
+  },
+  "author": "Andrew 'FalconWiz' Hinett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FalconWiz/falconbot/issues"
+  },
+  "homepage": "https://github.com/FalconWiz/falconbot#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "discord.js": "^9.3.0",
+    "imgflipper": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-util": "^3.0.7",
+    "nodemon": "^1.11.0",
+    "rollup-stream": "^1.14.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
