@@ -16,6 +16,7 @@ const memes = {
   cat2: 1367068,
   chainsaw: 136212,
   challenge: 24792,
+  chandlerface: 53851461,
   cheers: 5496396,
   childhood: 177491,
   chilling: 220847,
